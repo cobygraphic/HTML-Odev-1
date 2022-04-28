@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(182, 240, 255)
+}
+
+.firstclass{
+    color: rgb(0, 0, 0);
+}
+
+.fontclass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fontweight{
+    color: rgb(7, 105, 0);
+}
+
+.renkclass{
+    background-color: blueviolet;
+}
